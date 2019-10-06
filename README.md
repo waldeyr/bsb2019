@@ -244,3 +244,7 @@ print(repr(seq_record.seq))
 print("Length %i" % len(seq_record))
 print(seq_record.annotations["keywords"])
 ```    
+
+### Uniprot API
+
+[Uniprot API](https://www.uniprot.org/help/programmatic_access)
