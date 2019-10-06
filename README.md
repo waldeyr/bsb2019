@@ -2,6 +2,9 @@
 
 # Brazilian Symposium on Bioinformatics Minicurso: Bancos de Dados Biológicos
 
+[Tainá Raiol Alencar](http://lattes.cnpq.br/9295686881191724)
+[Waldeyr Mendes Cordeiro da Silva](http://lattes.cnpq.br/2391349697609978)
+
 ## Introdução à Biologia Molecular
 
 ### Dogma
